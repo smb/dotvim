@@ -51,10 +51,10 @@ set sw=4                " number of spaces for indent
 set et                  " expand tabs into spaces
 
 " mouse settings
-if has("mouse")
-  set mouse=a
-endif
-set mousehide           " Hide mouse pointer on insert mode."
+"if has("mouse")
+"  set mouse=a
+"endif
+"set mousehide           " Hide mouse pointer on insert mode."
 
 " search settings
 set incsearch           " Incremental search
